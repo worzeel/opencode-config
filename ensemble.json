@@ -1,0 +1,11 @@
+{
+  "modelsByAgent": {
+    "flerwin-lead": "opencode-go/kimi-k3",
+    "flerwin-dev": "opencode-go/kimi-k2.7-code",
+    "flerwin-database": "opencode-go/kimi-k2.7-code",
+    "flerwin-qa": "opencode-go/kimi-k2.7-code",
+    "flerwin-critic": "opencode-go/deepseek-v4-pro",
+    "flerwin-smoke": "opencode-go/deepseek-v4-flash",
+    "flerwin-documenter": "opencode-go/deepseek-v4-flash"
+  }
+}
